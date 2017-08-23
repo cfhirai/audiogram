@@ -1,7 +1,5 @@
 {
   "default": {
-    "width": 1280,
-    "height": 720,
     "framesPerSecond": 20,
     "maxDuration": 300,
     "samplesPerFrame": 128,
@@ -15,20 +13,10 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
-  },
-  "Neon": {
-    "backgroundColor": "#556270",
-    "foregroundColor": "#c7f464"
-  },
-  "Three colors": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "waveColor": "#00b4ff"
-  },
+  
   "Background image with top right text": {
+    "width": 1280,
+    "height": 720,
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
@@ -39,6 +27,8 @@
     "waveTop": 320
   },
   "Distillations logo rect red wave white top right text": {
+    "width": 1280,
+    "height": 720,
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
@@ -62,35 +52,9 @@
     "foregroundColor": "#fff",
     "backgroundImage": "Distillations_640x640.jpg"
   },
-  "Bars": {
-    "pattern": "bars",
-    "foregroundColor": "#d84a4a"
-  },
-  "Rounded bars with bottom left text": {
-    "pattern": "roundBars",
-    "foregroundColor": "#d84a4a",
-    "captionAlign": "left",
-    "captionLeft": 60,
-    "captionRight": 640,
-    "captionBottom": 660,
-    "captionTop": null
-  },
-  "Line": {
-    "backgroundColor": "#edc951",
-    "foregroundColor": "#00a0b0",
-    "pattern": "line"
-  },
-  "Curve": {
-    "backgroundColor": "#00a0b0",
-    "foregroundColor": "#edc951",
-    "pattern": "curve"
-  },
-  "Bricks": {
-    "backgroundColor": "#8771aa",
-    "foregroundColor": "#fff",
-    "pattern": "bricks"
-  },
   "Equalizer on the bottom": {
+    "width": 1280,
+    "height": 720,
     "backgroundColor": "#222",
     "foregroundColor": "#fff",
     "pattern": "equalizer",
@@ -98,21 +62,6 @@
     "captionBottom": 380,
     "waveTop": 420,
     "waveBottom": 720
-  },
-  "Bold italic orange": {
-    "captionAlign": "right",
-    "captionTop": null,
-    "captionBottom": 660,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundColor": "#fd5a1e",
-    "waveColor": "#fff",
-    "captionFont": "bold italic 52px 'Source Sans Pro'"
-  },
-  "Pixelated": {
-    "backgroundColor": "#ecd078",
-    "foregroundColor": "#c02942",
-    "pattern": "pixel"
   },
   "Square with background image": {
     "width": 640,
